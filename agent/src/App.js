@@ -23,7 +23,7 @@ function App() {
         let copy = [...글제목];
         copy[0] ='여자코트 추천';
         b(copy);
-      }}>글수정</button>
+      }}>글수정1232</button>
 
       <button onClick={()=> {
         let copy = [...글제목];
